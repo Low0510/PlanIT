@@ -1,0 +1,2 @@
+/Users/kaiyan/Development/Project/FYP_VERSION_ZIP/PlanIT/planit_schedule_manager/android/app/.cxx/RelWithDebInfo/5a2t6zws/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/kaiyan/Development/Project/FYP_VERSION_ZIP/PlanIT/planit_schedule_manager/android/app/.cxx/RelWithDebInfo/5a2t6zws/armeabi-v7a/CMakeFiles/rebuild_cache.dir

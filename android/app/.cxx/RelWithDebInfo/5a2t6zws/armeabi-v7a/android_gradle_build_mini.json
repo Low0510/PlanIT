@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/kaiyan/Development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/kaiyan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/kaiyan/Development/Project/FYP_VERSION_ZIP/PlanIT/planit_schedule_manager/android/app/.cxx/RelWithDebInfo/5a2t6zws/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/kaiyan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/kaiyan/Development/Project/FYP_VERSION_ZIP/PlanIT/planit_schedule_manager/android/app/.cxx/RelWithDebInfo/5a2t6zws/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

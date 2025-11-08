@@ -1,0 +1,1 @@
+/Users/kaiyan/Development/PlanIT/planit_schedule_manager/build/app/intermediates/cxx/Debug/3t3r3l6c/obj/arm64-v8a

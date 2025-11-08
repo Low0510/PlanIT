@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189466520018",
+    "project_id": "planit-6a1c2",
+    "storage_bucket": "planit-6a1c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189466520018:android:b9f9d5f723a6890a2c400b",
+        "android_client_info": {
+          "package_name": "com.example.planit_schedule_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Nj3UbMPOj0yDmayJKvPdDxmXTvloiYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
