@@ -9,10 +9,10 @@
 
 - **Smart Task Scheduling** — Automatically prioritize tasks based on deadlines and importance.  
 - **Reminders & Notifications** — Stay on top of your tasks with timely alerts.  
-- **Integrated Communication** — Connects with WhatsApp or other messaging platforms for easy coordination.  
 - **Calendar Integration** — Sync with Google Calendar for unified scheduling.  
 - **Progress Tracking** — Visualize your productivity with daily, weekly, and monthly analytics.  
 - **Cloud Sync** — Access your schedule from multiple devices securely.
+- **Project 50 Challenges**
 
 ---
 
@@ -35,5 +35,6 @@
 **APK Testing:** [https://drive.google.com/file/d/192zeSp6IW6YzNYdn4wU4a2K6ywZ7ByND/view?usp=sharing]
 
 ---
+
 
 
